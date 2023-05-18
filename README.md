@@ -40,7 +40,7 @@
 > 
 > 真相一旦入眼，你就再也无法视而不见。——《黑客帝国》
 
-* [在线阅读](https://gomis100.apachecn.org)
+* [在线阅读](https://gomis100.flygon.net)
 
 
 ## 下载
