@@ -25,7 +25,7 @@
         rgb(100,107,101)：显示颜色
         100-go-mistakes-zh：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         100-go-mistakes-zh：ApacheCN 的 Github 仓库名称
 -->
@@ -50,14 +50,6 @@
 ```
 docker pull apachecn0/100-go-mistakes-zh
 docker run -tid -p <port>:80 apachecn0/100-go-mistakes-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install 100-go-mistakes-zh
-100-go-mistakes-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
